@@ -1,0 +1,23 @@
+{
+  "framework": null,
+  "installCommand": "npm install",
+  "outputDirectory": "api",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/docs"
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)*",
+      "destination": "/api"
+    }
+  ],
+  "builds": [
+    {
+      "src": "/api/index.js",
+      "use": "@now/node"
+    }
+  ]
+}
