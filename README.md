@@ -8,3 +8,7 @@ This project is to make a comparison between Flutter and React Native, understan
 ## Flutter
 
 Mubiflix is an application developed in [Flutter](./flutter/README.md)
+
+## React Native
+
+Mubiflix source code in [react-native](./RN/README.md)
