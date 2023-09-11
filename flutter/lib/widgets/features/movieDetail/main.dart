@@ -4,7 +4,7 @@ import 'package:mubiflix/widgets/global/loader.dart';
 import 'package:mubiflix/services/models/movie_info.dart';
 import 'package:mubiflix/services/functions/mubiflix_api.dart';
 import 'header.dart';
-import 'body.dart';
+import 'detail.dart';
 
 Widget getDetail(MovieInfo? movie) {
   return ListView(
