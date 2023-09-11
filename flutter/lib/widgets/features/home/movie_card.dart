@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mubiflix/atoms/card_image.dart';
-import 'package:mubiflix/models/screen_args.dart';
+import 'package:mubiflix/services/models/screen_args.dart';
+import 'package:mubiflix/widgets/global/card_image.dart';
 
 Widget movieTitle(String title) {
   return Container(

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mubiflix/routes/home.dart';
-import 'package:mubiflix/routes/movie_detail.dart';
+import 'package:mubiflix/pages/home.dart';
+import 'package:mubiflix/pages/movie_detail.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-import 'package:mubiflix/models/movie_info.dart';
-import 'package:mubiflix/molecules/search.dart';
+import 'package:mubiflix/services/models/movie_info.dart';
+import 'package:mubiflix/widgets/features/home/search.dart';
 
-import 'package:mubiflix/organisms/card_feature.dart';
-import 'package:mubiflix/organisms/header_appbar.dart';
-import 'package:mubiflix/organisms/movie_card_list.dart';
-import 'package:mubiflix/services/mubiflix_api.dart';
+import 'package:mubiflix/widgets/features/home/card_feature.dart';
+import 'package:mubiflix/widgets/features/home/header.dart';
+import 'package:mubiflix/widgets/features/home/movie_card_list.dart';
+import 'package:mubiflix/services/functions/mubiflix_api.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});

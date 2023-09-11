@@ -1,4 +1,4 @@
-import 'package:mubiflix/models/cast_movie.dart';
+import 'package:mubiflix/services/models/cast_movie.dart';
 
 class MovieInfo {
   int id;

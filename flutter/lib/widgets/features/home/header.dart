@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mubiflix/atoms/logo_app.dart';
-import 'package:mubiflix/atoms/title_app.dart';
+import 'package:mubiflix/widgets/features/home/logo.dart';
+import 'package:mubiflix/widgets/features/home/title.dart';
 
 class HeaderAppBar extends StatelessWidget {
   const HeaderAppBar({super.key});
