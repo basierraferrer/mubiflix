@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mubiflix/view/home/index.dart';
+import 'package:mubiflix/widgets/features/home/main.dart';
 
 class HomeRoute extends StatelessWidget {
   const HomeRoute({super.key});

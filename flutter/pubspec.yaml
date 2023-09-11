@@ -95,10 +95,10 @@ flutter:
   fonts:
     - family: Bebas
       fonts:
-        - asset: fonts/BebasNeue-Regular.ttf
+        - asset: assets/fonts/BebasNeue-Regular.ttf
     - family: Poppins-M
       fonts:
-        - asset: fonts/Poppins-Medium.ttf    
+        - asset: assets/fonts/Poppins-Medium.ttf    
     - family: Poppins-R
       fonts:
-        - asset: fonts/Poppins-Regular.ttf    
+        - asset: assets/fonts/Poppins-Regular.ttf    

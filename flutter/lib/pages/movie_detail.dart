@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mubiflix/models/screen_args.dart';
-import 'package:mubiflix/view/movieDetail/index.dart';
+import 'package:mubiflix/services/models/screen_args.dart';
+import 'package:mubiflix/widgets/features/movieDetail/main.dart';
 
 class MovieDetailRoute extends StatelessWidget {
   const MovieDetailRoute({super.key});

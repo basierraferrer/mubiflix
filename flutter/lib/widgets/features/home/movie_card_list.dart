@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mubiflix/atoms/loader.dart';
-import 'package:mubiflix/models/movie_info.dart';
-import 'package:mubiflix/molecules/movie_card.dart';
+import 'package:mubiflix/services/models/movie_info.dart';
+import 'package:mubiflix/widgets/global/loader.dart';
+import 'package:mubiflix/widgets/features/home/movie_card.dart';
 
 Widget titleRow(String title, BuildContext context) {
   void onHandleTap() {

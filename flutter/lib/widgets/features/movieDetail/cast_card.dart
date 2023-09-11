@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mubiflix/atoms/card_image.dart';
-import 'package:mubiflix/models/cast_movie.dart';
+import 'package:mubiflix/widgets/global/card_image.dart';
+import 'package:mubiflix/services/models/cast_movie.dart';
 
 class CastCard extends StatelessWidget {
   CastMovie cast;

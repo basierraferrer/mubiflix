@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mubiflix/models/cast_movie.dart';
-import 'package:mubiflix/molecules/cast_card.dart';
+import 'package:mubiflix/services/models/cast_movie.dart';
+import 'package:mubiflix/widgets/features/movieDetail/cast_card.dart';
 
 List<CastCard> getCastCards(List<CastMovie> castList) {
   List<CastCard> list = [];
