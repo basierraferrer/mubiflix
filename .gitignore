@@ -1,0 +1,7 @@
+# flutter
+#
+flutter/.dart_tools/
+
+# React Native
+#
+RN/node_modules/

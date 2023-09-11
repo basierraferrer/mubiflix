@@ -4,3 +4,7 @@ This project is to make a comparison between Flutter and React Native, understan
 ## api 
 
 [Mubiflix API](./api/README.md) was created for educational purposes and will be used as the API for the Mubiflix application, which is built in Flutter and React Native. The aim is to provide my opinion as a developer on the differences between Flutter and RN and lay down some foundations for other developers who may want to use these technologies in the future.
+
+## RN
+
+Mubiflix source code in [react-native](./RN/README.md)
